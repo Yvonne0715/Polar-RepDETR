@@ -14,7 +14,7 @@ The pseudocode includes the overall training procedure and four components:
 
 ## Dataset Annotations
 
-The annotations correspond to **1,530 bearing-defect images**, covering three classes:
+ **1,530 bearing-defect images**, covering three classes:
 
 - **0:** Abrasion 
 - **1:** Groove 
