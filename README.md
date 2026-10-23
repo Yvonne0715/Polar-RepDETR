@@ -19,3 +19,5 @@ The pseudocode includes the overall training procedure and four components:
 - **0:** Abrasion 
 - **1:** Groove 
 - **2:** Scratch 
+
+[Download the dataset](https://github.com/dingyunming/Polar-RepDETR/releases/tag/Bearing)
